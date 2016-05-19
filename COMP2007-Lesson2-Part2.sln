@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP2007-Lesson2-Part2", "COMP2007-Lesson2-Part2\COMP2007-Lesson2-Part2.csproj", "{CDEF28BF-C9FE-4F7B-9053-D32DA91CAECC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDEF28BF-C9FE-4F7B-9053-D32DA91CAECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDEF28BF-C9FE-4F7B-9053-D32DA91CAECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDEF28BF-C9FE-4F7B-9053-D32DA91CAECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDEF28BF-C9FE-4F7B-9053-D32DA91CAECC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
