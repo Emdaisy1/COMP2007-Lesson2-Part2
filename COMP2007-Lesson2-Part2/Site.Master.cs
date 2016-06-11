@@ -7,6 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace COMP2007_Lesson2_Part2
 {
+
     public partial class Site : System.Web.UI.MasterPage
     {
         protected void Page_Load(object sender, EventArgs e)
@@ -38,4 +39,5 @@ namespace COMP2007_Lesson2_Part2
             return Page.Title;
         }
     }
+
 }
